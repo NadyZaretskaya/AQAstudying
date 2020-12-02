@@ -22,7 +22,7 @@ public class WriteToFile {
 
             for(Object line : list)
             {
-                writer.write((Integer) line);
+                writer.write(String.valueOf(line));
                 writer.write(System.getProperty("line.separator"));
             }
 
