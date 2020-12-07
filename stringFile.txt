@@ -1,0 +1,7 @@
+Hello!
+It's my file of Strings.
+It was created to check how my new methods works.
+126
+And I hope everything will work as it should)
+nullable
+By!
